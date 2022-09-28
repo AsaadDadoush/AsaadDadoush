@@ -1,6 +1,6 @@
 ![MasterHead](https://i.imgur.com/zpz2XYV.gif)
 <h1 align="center">Hi 👋, I'm Asaad W. Daadouch</h1>
-<h3 align="center">A Senior Computer Engineering student passionate Cyber Security</h3>
+<h3 align="center">A Senior Computer Engineering Student Passionate Cyber Security</h3>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/sQASpyx.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asaaddadoush&label=Profile%20views&color=0e75b6&style=flat" alt="asaaddadoush" /> </p>
