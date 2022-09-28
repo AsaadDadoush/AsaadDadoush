@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Imxhero1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Imxhero1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/asaad w. daadouch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asaad w. daadouch" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/asaaddaadouch/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asaad w. daadouch" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19816351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19816351" height="30" width="40" /></a>
 <a href="https://fb.com/asaad dadoush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asaad dadoush" height="30" width="40" /></a>
 <a href="https://instagram.com/asaad_dadoush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asaad_dadoush" height="30" width="40" /></a>
